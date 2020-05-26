@@ -1,0 +1,24 @@
+{
+  "name": "dev-challenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jsalles/dev-challenge.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jsalles/dev-challenge/issues"
+  },
+  "homepage": "https://github.com/jsalles/dev-challenge#readme",
+  "devDependencies": {
+    "jest": "^26.0.1"
+  }
+}
